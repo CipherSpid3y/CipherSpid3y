@@ -21,5 +21,5 @@
   <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
 </div>
 
-------------------------------------------- 
+<!------------------------------------------- 
 <img src="https://komarev.com/ghpvc/?username=CipherSpid3y&color=bdb2ff&style=for-the-badge"/>
