@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20CipherSpid3y&height=120&fontSize=40" />
 </div>
 
-<br>
-<br>
-
 <div align="center">
   
   ![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=%23FFFFFF)
