@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20I'm%20macroz&height=120&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ef4444&text=Hi,%20I'm%20macroz&fontSize=40&fontColor=FFFFFF" />
 </div>
+
+<p align="center">Penetration Tester & Software Developer</p>
 
 <br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,go,python,java,php,bash,kali,git,github" />
 </div>
-
-<!------------------------------------------- 
-<img src="https://komarev.com/ghpvc/?username=CipherSpid3y&color=bdb2ff&style=for-the-badge"/>
